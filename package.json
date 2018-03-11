@@ -1,0 +1,24 @@
+{
+  "name": "node-githubcloud66-project",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SajithaEcho/firsttestapp.git"
+  },
+  "author": "Sajitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SajithaEcho/firsttestapp/issues"
+  },
+  "homepage": "https://github.com/SajithaEcho/firsttestapp#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "pug": "^2.0.1"
+  }
+}
